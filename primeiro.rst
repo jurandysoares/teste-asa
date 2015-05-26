@@ -27,3 +27,6 @@ Para criar uma lista:
   
 Para criar sublistas, lembre-se de deixar uma linha em branco antes de listar
 os itens recuados (geralmente com dois espaços).
+
+No item de uma lista, você pode formatar texto, 
+conforme visto em `Formatação de Texto`.
